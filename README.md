@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/ujjwalgarg100204/http-server-using-java/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/gargujjwal/http-server-using-java/pull/73 -->
 
 <a name="readme-top"></a>
 
@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/http-server-using-java">
+  <a href="https://github.com/gargujjwal/http-server-using-java">
     <img
       src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_256x256.png"
       alt="Logo"
@@ -87,7 +87,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/ujjwalgarg100204/http-server-using-java.git
+   git clone https://github.com/gargujjwal/http-server-using-java.git
    ```
 
 2. Run the server
@@ -144,9 +144,9 @@ curl -v --header "User-Agent: foobar/1.2.3" http://localhost:4221/user-agent
 
 ## Contact
 
-Your Name - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwalgarg100204/) - <ujjwalgarg100204@gmail.com>
+Your Name - [@gargujjwal](https://www.linkedin.com/in/gargujjwal/) - <gargujjwal@gmail.com>
 
-Project Link: [https://github.com/ujjwalgarg100204/http-server-using-java](https://github.com/ujjwalgarg100204/http-server-using-java)
+Project Link: [https://github.com/gargujjwal/http-server-using-java](https://github.com/gargujjwal/http-server-using-java)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,9 +162,9 @@ Project Link: [https://github.com/ujjwalgarg100204/http-server-using-java](https
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/ujjwalgarg100204/http-server-using-java.svg?style=for-the-badge
-[forks-url]: https://github.com/ujjwalgarg100204/http-server-using-java/network/members
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/http-server-using-java.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/http-server-using-java/stargazers
+[forks-shield]: https://img.shields.io/github/forks/gargujjwal/http-server-using-java.svg?style=for-the-badge
+[forks-url]: https://github.com/gargujjwal/http-server-using-java/network/members
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/http-server-using-java.svg?style=for-the-badge
+[stars-url]: https://github.com/gargujjwal/http-server-using-java/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ujjwalgarg100204
+[linkedin-url]: https://linkedin.com/in/gargujjwal
